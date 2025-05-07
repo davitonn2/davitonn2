@@ -55,7 +55,7 @@
 <!-- Github Stats -->
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitonn2&show_icons=true&bg_color=121211&title_color=800080&text_color=FFFFFF&icon_color=800080)
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davitonn2&locale=pt-br&hide_title=false&layout=compact&card_width=495&langs_count=10&bg_color=121211&title_color=800080&text_color=FFFFFF&hide_border=false" width="495" height="220" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davitonn2&locale=pt-br&hide_title=false&layout=compact&card_width=475&langs_count=10&bg_color=121211&title_color=800080&text_color=FFFFFF&hide_border=false" width="475" height="220" alt="languages graph" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=800080&height=3&section=header"/>
 
