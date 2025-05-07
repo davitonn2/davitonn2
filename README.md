@@ -43,14 +43,14 @@
 <!-- Em aprendizado -->
 <div style="flex-basis: 48%;">
   <h3>Learning</h3>
-  <img src="https://skillicons.dev/icons?i=react,docker,figma,sql" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,postman,docker,spring" />
 </div>
 
 <!-- IDEs -->
 <h3>IDEs</h3>
-<div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=intellij,vscode" />
-</div>
+  <div style="flex-basis: 48%;">
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode" />
+  </div>
 
 <!-- Github Stats -->
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitonn2&show_icons=true&bg_color=121211&title_color=800080&text_color=FFFFFF&icon_color=800080)
