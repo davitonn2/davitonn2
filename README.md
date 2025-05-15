@@ -37,13 +37,13 @@
 
 <!-- Skills principais -->
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,git" />
 </div>
 
 <!-- Em aprendizado -->
 <div style="flex-basis: 48%;">
   <h3>Learning</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,postman,docker,spring" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,spring" />
 </div>
 
 <!-- IDEs -->
