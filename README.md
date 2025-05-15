@@ -43,7 +43,7 @@
 <!-- Em aprendizado -->
 <div style="flex-basis: 48%;">
   <h3>Learning</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,spring" />
+  <img src="https://skillicons.dev/icons?i=spring,html,sql,postman" />
 </div>
 
 <!-- IDEs -->
