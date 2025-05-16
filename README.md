@@ -25,7 +25,7 @@
 
   - 💬 I am 17 years old, living in Brazil. I'm always looking to improve my skills and grow in the tech world.
 
-  - ⚡ In my free time, I enjoy reading Manga, playing video games, listeng to music, learning new technologies, and reviewing the basics.
+  - ⚡ In my free time, I enjoy reading manga, playing video games, and listening to music. I also like learning new technologies and reviewing the basics to strengthen my knowledge.
 </details>
 
 <!-- Links -->
