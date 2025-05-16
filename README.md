@@ -14,9 +14,9 @@
 <p>
   Hi 👋, I'm Davi! A passionate developer in training.
 
-  - 🌱 I’m currently studying Java, Spring Boot, Html, Css, and JavaScript
+  - 🌱 I’m currently studying Java, Spring Boot, JDBC, MySql and others!
 
-  - 💼 I currently work at AMcom
+  - 💼 I currently have the pleasure of being part of the AMcom team!
 </p>
 
 <!-- Dropdown -->
@@ -25,13 +25,12 @@
 
   - 💬 I am 17 years old, living in Brazil. I'm always looking to improve my skills and grow in the tech world.
 
-  - ⚡ In my free time, I enjoy reading manga, playing video games, learning new technologies, reviewing the basics and exploring how things work under the hood.
+  - ⚡ In my free time, I enjoy reading Manga, playing video games, listeng to music, learning new technologies, and reviewing the basics.
 </details>
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-tonn/)
 &nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app/)
 
 ## 🔥 Skills
 
@@ -43,13 +42,13 @@
 <!-- Em aprendizado -->
 <div style="flex-basis: 48%;">
   <h3>Learning</h3>
-  <img src="https://skillicons.dev/icons?i=spring,css,postman" />
+  <img src="https://skillicons.dev/icons?i=spring,css,postman,mysql" />
 </div>
 
 <!-- IDEs -->
 <h3>IDEs</h3>
   <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
   </div>
 
 <!-- Github Stats -->
