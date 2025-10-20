@@ -1,66 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080"/>
+![](https://komarev.com/ghpvc/?username=davitonn2&color=800080)
 
-<!-- Título -->
-<p align="center"
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=345&size=40&pause=1000&color=640064&background=FFFFFF00&center=true&width=435&lines=Seja+Bem-Vindo" alt="Typing SVG">
-  </a>
-</p>
+## Sobre mim
+
+- 👨‍💻 Desenvolvedor em formação com foco em backend e API REST.
+- 🎓 Estudando Desenvolvimento de Sistemas na educação técnica integrada ao ensino médio.
+- 💼 Trabalhando como assistente de Infraestrutura na **AMcom** enquanto melhore minhas habilidades em programação
+- 🌱 Aprendendo mais sobre Angular, TypeScript, bancos relacionais e boas práticas de código.
+
+---
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![H2 Database](https://img.shields.io/badge/-H2-333333?style=flat&logo=h2)
+![JDBC](https://img.shields.io/badge/-JDBC-333333?style=flat&logo=data)
+![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
+![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=java)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=800080&height=3&section=header"/>
+**Utilidades**
 
-<!-- Apresentação -->
-<p>
-  Hi 👋, I'm Davi! A passionate developer in training.
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 
-  - 🌱 I’m currently studying Java, Spring Boot, JDBC, MySql and others!
+**DevOps**
 
-  - 💼 I currently have the pleasure of being part of the AMcom team!
-</p>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+**Ferramentas de desenvolvimento**
 
-  - 💬 I am 17 years old, living in Brazil. I'm always looking to improve my skills and grow in the tech world.
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-  - ⚡ In my free time, I enjoy reading manga, playing video games, and listening to music. I also like learning new technologies and reviewing the basics to strengthen my knowledge.
-</details>
+---
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-tonn/)
-&nbsp;&nbsp;&nbsp;
+## 📊 GitHub Stats
 
-<!-- Skills principais -->
-<div style="flex-basis: 48%;">
-  <h3>Skills</h3>
-  <img src="https://skillicons.dev/icons?i=java,html,git" />
-</div>
+<a href="https://github.com/davitonn2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitonn2&theme=dracula&show_icons=true&count_private=true" />
+</a>
 
-<!-- Em aprendizado -->
-<div style="flex-basis: 48%;">
-  <h3>Learning</h3>
-  <img src="https://skillicons.dev/icons?i=spring,css,js,postman,mysql" />
-</div>
+---
 
-<!-- IDEs -->
-<h3>IDEs</h3>
-  <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
-  </div>
+## Onde me encontrar
 
-<!-- Github Stats -->
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitonn2&show_icons=true&bg_color=121211&title_color=800080&text_color=FFFFFF&icon_color=800080)
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davitonn2&locale=pt-br&hide_title=false&layout=compact&card_width=495&langs_count=10&bg_color=121211&title_color=800080&text_color=FFFFFF&hide_border=false" width="495" height="220" alt="languages graph" />
+[![Linkedin](https://img.shields.io/badge/-davi--tonn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-tonn/)](https://www.linkedin.com/in/davi-tonn/)
+[![Gmail Badge](https://img.shields.io/badge/-daclack134@gmail.com-800080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daclack134@gmail.com)](mailto:daclack134@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/davitonn2?label=follow&style=social)](https://github.com/davitonn2)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=800080&height=3&section=header"/>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davitonn2/davitonn2/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davitonn2/davitonn2/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davitonn2/davitonn2/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=70&section=footer"/>
