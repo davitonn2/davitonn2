@@ -4,7 +4,7 @@
 
 - 👨‍💻 Desenvolvedor em formação com foco em backend e API REST.
 - 🎓 Estudando Desenvolvimento de Sistemas na educação técnica integrada ao ensino médio.
-- 💼 Trabalhando como assistente de Infraestrutura na **AMcom** enquanto melhore minhas habilidades em programação
+- 💼 Trabalhando como assistente de Infraestrutura na **AMcom** enquanto melhoro minhas habilidades em programação
 - 🌱 Aprendendo mais sobre Angular, TypeScript, bancos relacionais e boas práticas de código.
 
 ---
