@@ -30,11 +30,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,postgres,docker,linux,git" />
 </p>
 
-### 🛠️ Ferramentas & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma" />
-</p>
-
 ---
 
 ## 📬 Conecte-se Comigo
