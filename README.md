@@ -18,7 +18,7 @@
 - 🎓 **Educação:** Graduando em Sistemas de Informação (**FURB**) e formado no **+Devs2Blu** (Desenvolvimento de Software).
 - 💼 **Experiência Profissional:** - **IT Infrastructure:** Atuação com suporte especializado, redes, servidores e troubleshooting de hardware/software.
   - **Desenvolvimento:** Experiência com Java e Spring Boot, além de front-end com Angular.
-- 💡 **Interests:** Curto muito ler mangás, jogar (LoL, Roblox) e estou sempre de olho no mundo das motos (Yamaha R3 / Ninja) e musculação.
+- 💡 **Interests:** Curto muito ler mangás, jogar (LoL, Roblox) e estou sempre de olho no mundo das musicas.
 - 🌍 **Localização:** Blumenau, Santa Catarina, Brasil.
 
 ---
